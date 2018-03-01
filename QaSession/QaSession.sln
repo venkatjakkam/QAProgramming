@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QaSession", "QaSession\QaSession.csproj", "{8D85CE29-385C-46F3-89C6-323675D1363B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swaping", "Swaping\Swaping.csproj", "{38082D48-906B-424A-BB4E-A1CB962C49C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tables", "Tables\Tables.csproj", "{837BE541-2ED8-453D-AC8E-7A9E928B6CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D85CE29-385C-46F3-89C6-323675D1363B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D85CE29-385C-46F3-89C6-323675D1363B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D85CE29-385C-46F3-89C6-323675D1363B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D85CE29-385C-46F3-89C6-323675D1363B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38082D48-906B-424A-BB4E-A1CB962C49C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38082D48-906B-424A-BB4E-A1CB962C49C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38082D48-906B-424A-BB4E-A1CB962C49C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38082D48-906B-424A-BB4E-A1CB962C49C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{837BE541-2ED8-453D-AC8E-7A9E928B6CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{837BE541-2ED8-453D-AC8E-7A9E928B6CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{837BE541-2ED8-453D-AC8E-7A9E928B6CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{837BE541-2ED8-453D-AC8E-7A9E928B6CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
