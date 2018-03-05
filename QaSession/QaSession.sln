@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumofArrayIntegers", "Sumof
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckOddNumber", "CheckOddNumber\CheckOddNumber.csproj", "{BDE4C633-1623-4E10-9013-ED0EF5B2AAC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseOrder", "ReverseOrder\ReverseOrder.csproj", "{2DEDFD18-84EE-4B3F-8CCA-11E2FA1B789B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{BDE4C633-1623-4E10-9013-ED0EF5B2AAC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDE4C633-1623-4E10-9013-ED0EF5B2AAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDE4C633-1623-4E10-9013-ED0EF5B2AAC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DEDFD18-84EE-4B3F-8CCA-11E2FA1B789B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DEDFD18-84EE-4B3F-8CCA-11E2FA1B789B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DEDFD18-84EE-4B3F-8CCA-11E2FA1B789B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DEDFD18-84EE-4B3F-8CCA-11E2FA1B789B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
