@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharOddposition", "CharOddp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumofArrayIntegers", "SumofArrayIntegers\SumofArrayIntegers.csproj", "{324E17FE-E6B5-4FF4-96D2-01BCBACDC045}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckOddNumber", "CheckOddNumber\CheckOddNumber.csproj", "{BDE4C633-1623-4E10-9013-ED0EF5B2AAC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{324E17FE-E6B5-4FF4-96D2-01BCBACDC045}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{324E17FE-E6B5-4FF4-96D2-01BCBACDC045}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{324E17FE-E6B5-4FF4-96D2-01BCBACDC045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDE4C633-1623-4E10-9013-ED0EF5B2AAC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE4C633-1623-4E10-9013-ED0EF5B2AAC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE4C633-1623-4E10-9013-ED0EF5B2AAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE4C633-1623-4E10-9013-ED0EF5B2AAC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
