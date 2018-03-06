@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumofTenNaturalNumbersP22",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenOddP15", "EvenOddP15\EvenOddP15.csproj", "{29729102-DF3A-48B4-A3D3-9D86D661756C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrianglesP17", "TrianglesP17\TrianglesP17.csproj", "{B452B4D0-15A2-4010-8EFC-5457B190EEEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{29729102-DF3A-48B4-A3D3-9D86D661756C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29729102-DF3A-48B4-A3D3-9D86D661756C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29729102-DF3A-48B4-A3D3-9D86D661756C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B452B4D0-15A2-4010-8EFC-5457B190EEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B452B4D0-15A2-4010-8EFC-5457B190EEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B452B4D0-15A2-4010-8EFC-5457B190EEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B452B4D0-15A2-4010-8EFC-5457B190EEEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
