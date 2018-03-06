@@ -12,7 +12,7 @@ namespace SumofTenNaturalNumbersP22
         {
             int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
             int i,sum = 0;
-            Console.Write("\nFirst 10 natural numbers:");
+            Console.Write("\nFirst 10 natural numbers:"); 
             for (i = 0; i < arr.Length; i++)
             {
                 Console.Write(arr[i] + " ");
