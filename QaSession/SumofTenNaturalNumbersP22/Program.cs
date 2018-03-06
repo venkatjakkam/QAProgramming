@@ -13,16 +13,17 @@ namespace SumofTenNaturalNumbersP22
             int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
             int i,sum = 0;
             Console.Write("\nFirst 10 natural numbers:");
-            for (int i = 0; i < arr.Length; i++)
+            for (i = 0; i < arr.Length; i++)
             {
                 Console.Write(arr[i] + " ");
             }
-            Console.WriteLine("Sum of natural numbers:");
-            for (int i=0;i<arr.Length;i++)
+            
+            for (i=0;i<arr.Length;i++)
             {
                 sum = sum + arr[i];
-                Console.WriteLine
             }
+            Console.WriteLine("\nThe Sum is:" + sum);
+            Console.ReadLine();
 
         }
     }
