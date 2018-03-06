@@ -17,6 +17,7 @@ namespace EvenOddP15
             a = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("First Number:");
             b = Convert.ToInt32(Console.ReadLine());
+
             if (a % 2 == 0 && b % 2 == 0)
             {
                 Console.WriteLine("Expected output:"+check);
