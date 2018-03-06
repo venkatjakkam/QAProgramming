@@ -22,9 +22,8 @@ namespace SumofTenNaturalNumbersP22
             {
                 sum = sum + arr[i];
             }
-            Console.WriteLine("\nThe Sum is:" + sum);
+            Console.WriteLine("\nThe Sum is :" + sum);
             Console.ReadLine();
-
         }
     }
 }
