@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrianglesP17", "TrianglesP1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrangleAngles", "TrangleAngles\TrangleAngles.csproj", "{AAFD36F6-5C5F-49C7-BEFA-F862B4208F50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelOrConsonant", "VowelOrConsonant\VowelOrConsonant.csproj", "{7B47463A-027D-45FB-8A4E-5FD508A33669}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{AAFD36F6-5C5F-49C7-BEFA-F862B4208F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAFD36F6-5C5F-49C7-BEFA-F862B4208F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAFD36F6-5C5F-49C7-BEFA-F862B4208F50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B47463A-027D-45FB-8A4E-5FD508A33669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B47463A-027D-45FB-8A4E-5FD508A33669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B47463A-027D-45FB-8A4E-5FD508A33669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B47463A-027D-45FB-8A4E-5FD508A33669}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
