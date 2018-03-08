@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumandAverageP23", "SumandA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumofOddNaturalnumbers24", "SumofOddNaturalnumbers\SumofOddNaturalnumbers24.csproj", "{C62274C8-ACEB-4E09-BDDA-D083BBE342E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialP29", "FactorialP29\FactorialP29.csproj", "{E3CBD233-C659-435A-9D2A-1DDEB6E1C659}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{C62274C8-ACEB-4E09-BDDA-D083BBE342E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C62274C8-ACEB-4E09-BDDA-D083BBE342E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C62274C8-ACEB-4E09-BDDA-D083BBE342E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3CBD233-C659-435A-9D2A-1DDEB6E1C659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3CBD233-C659-435A-9D2A-1DDEB6E1C659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3CBD233-C659-435A-9D2A-1DDEB6E1C659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3CBD233-C659-435A-9D2A-1DDEB6E1C659}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
