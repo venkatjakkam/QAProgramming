@@ -12,7 +12,7 @@ namespace VowelOrConsonant
         {
             Console.WriteLine("Enter Alphabet:");
             char ch;
-            ch = Convert.ToChar(Console.ReadLine().ToLower());
+            ch = Convert.ToChar(Console.ReadLine());
 
             switch (ch)
             {
@@ -29,6 +29,21 @@ namespace VowelOrConsonant
                     Console.WriteLine("The alphabet is a Vowel.");
                     break;
                 case 'u':
+                    Console.WriteLine("The alphabet is a Vowel.");
+                    break;
+                case 'A':
+                    Console.WriteLine("The alphabet is a Vowel.");
+                    break;
+                case 'E':
+                    Console.WriteLine("The alphabet is a Vowel.");
+                    break;
+                case 'I':
+                    Console.WriteLine("The alphabet is a Vowel.");
+                    break;
+                case 'O':
+                    Console.WriteLine("The alphabet is a Vowel.");
+                    break;
+                case 'U':
                     Console.WriteLine("The alphabet is a Vowel.");
                     break;
                 default:
