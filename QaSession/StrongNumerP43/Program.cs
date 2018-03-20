@@ -28,6 +28,7 @@ namespace StrongNumerP43
                 sum = sum + fact;
                 number = number / 10;
 
+
             }
             if(originalNumber == sum)
             {
