@@ -19,13 +19,13 @@ namespace TrangleAngles
             Console.WriteLine("Enter Third angle:");
             c = Convert.ToInt32(Console.ReadLine());
             d = a + b + c;
-            if(d<180)
+            if(d==180)
             {
-                Console.WriteLine("This trangle is not valid..");
+                Console.WriteLine("This trangle is valid..");
             }
             else
             {
-                Console.WriteLine("This trangle is valid..");
+                Console.WriteLine("This trangle is not valid..");
             }
             Console.ReadLine();
         }
