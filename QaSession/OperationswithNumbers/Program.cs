@@ -32,23 +32,30 @@ namespace OperationswithNumbers
             }
             else if (ch == '/')
             {
-                if (b == 0)
-                {
-                    Console.WriteLine("Not a valid number for division please enter second number other than zero");
-
-                    Console.WriteLine("Enter Second Number:");
-                    b = Convert.ToInt32(Console.ReadLine());
+                    b = readSecondNumber();
                     Console.WriteLine("Expected output:" + (a / b));
-                }
-                else {
-                    Console.WriteLine("Expected output:" + (a / b));
-                }
+                
             }
 
 
 
             Console.ReadLine();
 
+        }
+       static int readSecondNumber()
+        {
+            Console.WriteLine("Enter Second Number:");
+            int b = Convert.ToInt32(Console.ReadLine());
+            if(b==0)
+            {
+                Console.WriteLine("Not a valid number for division please enter second number other than zero");
+                return readSecondNumber();
+
+            }
+            else
+            {
+                return b;
+            }
         }
     }
 }
