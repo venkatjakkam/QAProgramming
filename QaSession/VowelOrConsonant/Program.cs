@@ -17,32 +17,32 @@ namespace VowelOrConsonant
             switch (ch)
             {
                 case 'a':
-                    Console.WriteLine("The alphabet is a Vowel.");
-                    break;
+                   // Console.WriteLine("The alphabet is a Vowel.");
+                   // break;
                 case 'e':
-                    Console.WriteLine("The alphabet is a Vowel.");
-                    break;
+                   // Console.WriteLine("The alphabet is a Vowel.");
+                   // break;
                 case 'i':
-                    Console.WriteLine("The alphabet is a Vowel.");
-                    break;
+                   // Console.WriteLine("The alphabet is a Vowel.");
+                   // break;
                 case 'o':
-                    Console.WriteLine("The alphabet is a Vowel.");
-                    break;
+                   // Console.WriteLine("The alphabet is a Vowel.");
+                   // break;
                 case 'u':
-                    Console.WriteLine("The alphabet is a Vowel.");
-                    break;
+                   // Console.WriteLine("The alphabet is a Vowel.");
+                  //  break;
                 case 'A':
-                    Console.WriteLine("The alphabet is a Vowel.");
-                    break;
+                   // Console.WriteLine("The alphabet is a Vowel.");
+                   // break;
                 case 'E':
-                    Console.WriteLine("The alphabet is a Vowel.");
-                    break;
+                   // Console.WriteLine("The alphabet is a Vowel.");
+                   // break;
                 case 'I':
-                    Console.WriteLine("The alphabet is a Vowel.");
-                    break;
+                   // Console.WriteLine("The alphabet is a Vowel.");
+                   // break;
                 case 'O':
-                    Console.WriteLine("The alphabet is a Vowel.");
-                    break;
+                   // Console.WriteLine("The alphabet is a Vowel.");
+                   // break;
                 case 'U':
                     Console.WriteLine("The alphabet is a Vowel.");
                     break;
